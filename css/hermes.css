@@ -9,6 +9,7 @@
 
 .archive .post-time,.archive .post-title-link{
     font-size:1em;
+    background: red;
 }
 @media only screen and (max-width: 120px) {
 
