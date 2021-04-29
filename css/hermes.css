@@ -10,7 +10,7 @@
 .archive .post-time,.archive .post-title-link{
     font-size:1em;
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 120px) {
 
     body { 
        font-size: 0.5em; 
