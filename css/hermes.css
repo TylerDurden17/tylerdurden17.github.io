@@ -12,8 +12,8 @@
 }
 @media only screen and (max-width: 520px) {
 
-    body { 
-       font-size: 0.85em; 
+    .archive .post-time,.archive .post-title-link, .post-info { 
+       font-size: 16px; 
     }
  
  }
