@@ -1,5 +1,5 @@
 ---
-title: on-question-based-approach-to-learning
+title: On Question Based Approach To Learn
 date: 2021-08-18 15:54:53
 tags:
 ---
